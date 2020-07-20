@@ -1,2 +1,2 @@
 # Graphic Design Pratical 1
- Draw Flag and Face Anpanman (Open GL)
+ Draw 2D Flag and Face Anpanman (Open GL)
