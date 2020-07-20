@@ -1,0 +1,120 @@
+﻿  Demo.cpp
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(111,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(116,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(118,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(120,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(124,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(127,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(127,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(134,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(134,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(143,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(143,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(149,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(150,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(152,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(153,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(162,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(162,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(168,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(169,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(171,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(172,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(181,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(182,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(183,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(185,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(186,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(194,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(200,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(201,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(202,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(204,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(205,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(213,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(220,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(220,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(228,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(228,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(236,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(238,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(239,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(247,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(255,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(255,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(265,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(265,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(295,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(297,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(299,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(304,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(305,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(306,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(307,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(312,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(313,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(314,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(315,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(322,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(323,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(324,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(325,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(330,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(331,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(332,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(335,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(336,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(337,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(344,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(345,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(346,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(347,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(348,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(351,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(352,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(354,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(355,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(356,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(358,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(361,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(362,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(363,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(365,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(366,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(367,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(370,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(371,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(372,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(374,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(375,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(376,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(378,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(379,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(381,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(382,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(383,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(385,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(393,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(394,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(395,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(396,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(400,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(401,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(402,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(403,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(405,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(406,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(407,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(409,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(410,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(411,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(413,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(414,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(415,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(423,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(424,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(425,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(426,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(435,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\Patical 1 GD\Demo.cpp(435,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Patical 1 GD.vcxproj -> C:\Users\wenzh\Desktop\graphic t\source\repos\P1 - TEO WEN ZHI (RSF2G7)\GD\Patical 1 GD\x64\Debug\Patical 1 GD.exe
